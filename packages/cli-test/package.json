@@ -1,0 +1,25 @@
+{
+  "name": "@monolithic-repository/cli-test",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wuyaoxing <82565097@qq.com>",
+  "homepage": "https://github.com/wuyaoxing/monolithic-repository#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyaoxing/monolithic-repository.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wuyaoxing/monolithic-repository/issues"
+  },
+  "dependencies": {
+    "@test/cli": "^0.0.0"
+  }
+}

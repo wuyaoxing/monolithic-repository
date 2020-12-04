@@ -1,15 +1,7 @@
 {
-  "name": "monolithic-repository",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
-  "dependencies": {
-    "vue": "^3.0.4"
-  },
+  "name": "root",
+  "private": true,
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
-    "@vue/compiler-sfc": "^3.0.4"
+    "lerna": "^3.22.1"
   }
 }
